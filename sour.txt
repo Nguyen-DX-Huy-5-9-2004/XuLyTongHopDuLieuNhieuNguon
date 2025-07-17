@@ -1,0 +1,8 @@
+1:SQL Sever
+2: TXT
+3: File
+4: MySQL
+5:query
+SV :SQL Sever
+
+SV: không đemo chức năng, chỉ giới thiệu điểm khác khi done

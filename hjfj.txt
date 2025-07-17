@@ -1,0 +1,3 @@
+-Đăng nhập giảng viên: lấy dữ liệu từ DB không cần tiền xử lý,  sửa có lưu -> đưa ra báo cáo (Nhanh) (Ước tính: ~3 phút)
+-Đăng nhập sinh viên: lấy dữ liệu từ DB không cần tiền xử lý, sửa không lưu -> đưa ra báo cáo (Nhanh) (Ước tính: ~3  phút)
+-Đăng nhập khách: các chức năng bình thường(Lọc trùng, chỉnh sửa, gộp bảng và lưu theo nguồn ban đầu(Nhiều nguồn không lấy dữ liệu đặc thù qua  QuickConnect))(Chậm)(Ước tính: 5-6  phút)
